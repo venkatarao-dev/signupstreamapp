@@ -1,0 +1,21 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=996&t=st=1702525270~exp=1702525870~hmac=8e308906fd3a83396a629574daa38c0bf572d6935ad78a696f67d6ca78ea17b7");
+  color: #ffffff;
+  font-family: "Roboto";
+  font-size: 30px;
+}
+
+.logout-btn {
+  height: 40px;
+  width: 130px;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+  border-radius: 4px;
+  background-color: #ab0e2a;
+}

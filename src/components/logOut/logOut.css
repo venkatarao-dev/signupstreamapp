@@ -1,0 +1,12 @@
+.logout-container {
+  height: 100vh;
+  background-color: #34eb98;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto";
+  font-size: 20px;
+  color: blueviolet;
+}
